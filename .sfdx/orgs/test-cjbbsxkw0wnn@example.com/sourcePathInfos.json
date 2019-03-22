@@ -1,0 +1,229 @@
+[
+    [
+        "/Users/nate/Dev/DuplicateRule2GP/force-app",
+        {
+            "sourcePath": "/Users/nate/Dev/DuplicateRule2GP/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1553273696709,
+            "changeTime": 1553273788303,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/nate/Dev/DuplicateRule2GP/force-app/main",
+        {
+            "sourcePath": "/Users/nate/Dev/DuplicateRule2GP/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1553273696709,
+            "changeTime": 1553273696709,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1553274356470,
+            "changeTime": 1553274356470,
+            "contentHash": "fdf26734a748e40badafffe9a32e9a0ad4b11a46"
+        }
+    ],
+    [
+        "/Users/nate/Dev/DuplicateRule2GP",
+        {
+            "sourcePath": "/Users/nate/Dev/DuplicateRule2GP",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1553273877670,
+            "changeTime": 1553273877670,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/objects/MyObject__c/MyObject__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/objects/MyObject__c/MyObject__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2065,
+            "modifiedTime": 1553274356451,
+            "changeTime": 1553274356451,
+            "contentHash": "d489999af4d06c668efdcb6fb147df7620d30bf1"
+        }
+    ],
+    [
+        "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/objects/MyObject__c/fields/Email__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/objects/MyObject__c/fields/Email__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 332,
+            "modifiedTime": 1553274356451,
+            "changeTime": 1553274356451,
+            "contentHash": "2cca474a11fe69efa2b2a67d352ae6905c99bfea"
+        }
+    ],
+    [
+        "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/layouts/MyObject__c-My Object Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/layouts/MyObject__c-My Object Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2082,
+            "modifiedTime": 1553274356454,
+            "changeTime": 1553274356454,
+            "contentHash": "8d1a94567a51cf6c45dae923a2066da068f4b045"
+        }
+    ],
+    [
+        "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19181,
+            "modifiedTime": 1553274356467,
+            "changeTime": 1553274356467,
+            "contentHash": "351cfb491af3c6ffc46ba92dddfa48f8cf00c9eb"
+        }
+    ],
+    [
+        "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/matchingRules/MyObject__c.matchingRule-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/matchingRules/MyObject__c.matchingRule-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 518,
+            "modifiedTime": 1553274356468,
+            "changeTime": 1553274356468,
+            "contentHash": "38dc4da3b5c6a8c04268de237760fa00ac569a68"
+        }
+    ],
+    [
+        "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/duplicateRules/MyObject__c.My_Object_Duplicates.duplicateRule-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/duplicateRules/MyObject__c.My_Object_Duplicates.duplicateRule-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 866,
+            "modifiedTime": 1553274356470,
+            "changeTime": 1553274356470,
+            "contentHash": "6783dc9e5665ab35f319fdf7211fa223c7c5e5e1"
+        }
+    ],
+    [
+        "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/objects/MyObject__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/objects/MyObject__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1553274356451,
+            "changeTime": 1553274356451,
+            "contentHash": "f2c3e28c8c1600dd4650c9d18e3fa57fa5309181"
+        }
+    ],
+    [
+        "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553274356449,
+            "changeTime": 1553274356449,
+            "contentHash": "6fc9aecd7fc471e3aa7f1c8fc0fe482585be63da"
+        }
+    ],
+    [
+        "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/objects/MyObject__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/objects/MyObject__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553274356451,
+            "changeTime": 1553274356451,
+            "contentHash": "91a954a2d8e01634d54d65638d4dccd14c4d37b1"
+        }
+    ],
+    [
+        "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553274356454,
+            "changeTime": 1553274356454,
+            "contentHash": "62a17017d5803b74c968ebcf57e60f8cb21bd627"
+        }
+    ],
+    [
+        "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553274356467,
+            "changeTime": 1553274356467,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+        }
+    ],
+    [
+        "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/matchingRules",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/matchingRules",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553274356468,
+            "changeTime": 1553274356468,
+            "contentHash": "8aee8bba2fd3f579506f668fbe3da85aa627e691"
+        }
+    ],
+    [
+        "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/duplicateRules",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nate/Dev/DuplicateRule2GP/force-app/main/default/duplicateRules",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553274356470,
+            "changeTime": 1553274356470,
+            "contentHash": "f827a81b3ae1347360784c3a8f89a59422c1199b"
+        }
+    ]
+]
