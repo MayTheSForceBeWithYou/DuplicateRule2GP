@@ -1,9 +1,2 @@
-# SFDX App
-
-## Dev, Build and Test
-
-## Resources
-
-## Description of Files and Directories
-
-## Issues
+# DuplicateRule2GP
+Repo to test bug of 2GP DuplicateRule not able to install
